@@ -1,3 +1,4 @@
+// Mejora de validaciones del formulario
 package com.example.myapplication
 
 import androidx.compose.foundation.clickable
